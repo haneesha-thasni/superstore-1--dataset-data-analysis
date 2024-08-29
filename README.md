@@ -1,6 +1,7 @@
 # superstore-1--dataset-data-analysis
+![image](https://github.com/user-attachments/assets/b0adb2e9-80b8-4a52-9e25-107aa59dcf45)
 
-feature description: 
+## feature description: 
 
 * Row ID: A unique identifier for each row in the dataset.
 
@@ -46,7 +47,7 @@ feature description:
 
 This dataset contains detailed transactional information, which can be analyzed to understand sales patterns, customer behavior, and overall business performance.
 
-Question done in this analysis:
+## Question done in this analysis:
 
 1) Get all details where the order date falls within the year 09-11-2013 and country is united staes.
 2) get the all details where state=california and ship mode =standard class and profit>=50
